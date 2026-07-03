@@ -47,18 +47,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegomedinamauricio
 )
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jonasbalandraux/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jonas%20Balandraux-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jonas.balandraux@mines-albi.fr">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/JonasBlx">
-    <img src="https://img.shields.io/badge/GitHub-JonasBlx-black?logo=github&logoColor=white" />
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medinamauriciodiego@email.com) 
 
 ---
 
