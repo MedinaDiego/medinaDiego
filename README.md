@@ -18,7 +18,27 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+## 📈 Stats
 
+[![MedinaDiego GitHub stats](https://github-stats-extended.vercel.app/api?username=MedinaDiego)](https://github.com/stats-organization/github-stats-extended)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MedinaDiego&langs_count=4&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=MedinaDiego&langs_count=4&theme=swift)
+
+
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/jonasbalandraux/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jonas%20Balandraux-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jonas.balandraux@mines-albi.fr">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/JonasBlx">
+    <img src="https://img.shields.io/badge/GitHub-JonasBlx-black?logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <!--
 **MedinaDiego/medinaDiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
