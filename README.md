@@ -1,6 +1,17 @@
-# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhmNmd1YmI4NXIwMjZodW1mZHYzaDN0ZzloMGpsb2t2a2t6Ym0zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" width="80"> Bienvenid@ a mi Github
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhmNmd1YmI4NXIwMjZodW1mZHYzaDN0ZzloMGpsb2t2a2t6Ym0zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" width="80"> Hi!, I'm Diego Medina
 
-<h2> Languages </h2>
+### 🚀 About Me
+<p align="left"><img  align="right" alt="coding" width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNxaTdoZ3N4bnU2cmYybHM5ODF1ZXlraGd0anR2bG5wMXpha2l6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HEPwfdu6T6svpPE1eN/giphy.gif">
+
+- 🎓 Master's student in **Data Science at IMT Mines Albi**
+- 🧠 Skilled in **Machine Learning**, **Deep Learning**, **Data Pipelines**, and **MLOps**
+- 💻 Experienced with **Python**, **SQL**, **Snowflake** and **Docker**
+- 🤖 Passionate about **neural networks**, with hands-on experience using **LSTM**, **CNN**, **GNN**, **Transformers**, and **Autoencoders**
+- 🔬 Background in **Data Science for biomedical research** (protein flexibility, Alzheimer’s data)
+
+---
+### 🧰 My Skills
+### Programming Languages
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
