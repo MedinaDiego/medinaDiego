@@ -43,7 +43,11 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MedinaDiego&langs_count=4&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=MedinaDiego&langs_count=4&theme=swift)
 
 
-### 🔗 Connect with Me
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/diegomedinamauricio
+)
+
 <p align="left">
   <a href="https://www.linkedin.com/in/jonasbalandraux/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Jonas%20Balandraux-blue?logo=linkedin&logoColor=white" />
